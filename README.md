@@ -1,6 +1,20 @@
-### Hi there 👋, I'm Gustavo Franco
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavofz&color=blue" alt="Profile views" /> </p>
+## Hi guys 👋, my name is Gustavo Franco
 
+### I'm a full-stack developer starting my career
+
+- 🔭 I’m currently working with NodeJs and ReactJs/ChakraUi
+- 🌱 I’m currently learning NextJs and NestJs
+
+<br>
+
+<!--
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 ## Skills
 
@@ -13,19 +27,20 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 
-
-<br><br>
+<br>
 
 ## Contact
 
+<p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/gustavo-franco" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-gustavo--franco-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/gustaavofz" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-gustaavofz-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## Status
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavofz&color=blue" alt="Profile views" /> </p>
