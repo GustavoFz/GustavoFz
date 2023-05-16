@@ -3,7 +3,7 @@
 ### I'm a full-stack developer starting my career
 
 - 🔭 I’m currently working with NodeJs and ReactJs/ChakraUi
-- 🌱 I’m currently learning NextJs and NestJs
+- 🌱 I’m currently learning NestJs
 
 <br>
 
