@@ -43,7 +43,7 @@
 
 <br>
 
-## Estatísticas
+## Statistics
 
 <div align="center" display="Flex">
  <a href="https://github.com/gustavofz">
